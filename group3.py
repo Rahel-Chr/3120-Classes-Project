@@ -15,18 +15,3 @@ def growth_rate(self):
 giraffe.average_lifespan()
 giraffe.color_patterns()
 giraffe.growth_rate()
-
-"""
-Child-parent codes
-
-class EatingHabits(Giraffe):
-    def __init__(self, age):
-        super().__init__(growth)
-        self.age = 20
-        self.male = "male"
-        self.female = "female"
-        
-    def 
-
-
-"""
